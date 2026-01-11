@@ -1,19 +1,41 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tic-Tac-Toe (React)
 
-Currently, two official plugins are available:
+A classic **Tic-Tac-Toe** game built using **React** — a fun and interactive two-player grid game where players take turns placing **X** and **O** on a 3×3 board.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎮 The goal is to be the first to get **three in a row** (horizontally, vertically, or diagonally). If all squares are filled without a winner, the game ends in a **draw**.
 
-## React Compiler
+This project uses modern React principles and was built from scratch using **React + Vite**. :contentReference[oaicite:0]{index=0}
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔ Clean and intuitive UI  
+✔ Turn-based gameplay  
+✔ Game win detection  
+✔ Draw detection when no player wins  
+✔ Easily extendable with animations or AI
+
+---
+
+## 🚀 Technologies Used
+
+- **React** — for building the UI  
+- **JavaScript (ES6+)** — game logic and interactions  
+- **HTML & CSS** — layout and styling
+
+---
+
+## 📦 Getting Started
+
+To run this project locally:
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/YourUsername/tic-tac-toe.git
+
 
 #Screenshots
 
