@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 #Screenshots
 
-![Game Screenshot](images/Screenshots 2026-01-11 114638.png)
+![Game Screenshot](images/Screenshot 2026-01-11 114638.png)
